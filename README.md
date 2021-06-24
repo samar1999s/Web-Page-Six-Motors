@@ -1,5 +1,4 @@
-Six motors control panel web page 
-<br>
+
 This repository is about creating a control panel web page for six motors 
 <br>
 1.index.html
