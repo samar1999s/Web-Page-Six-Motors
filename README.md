@@ -10,5 +10,4 @@ This repository is about creating a control panel web page for six motors
 4.index.php
 <br>
 5.Retrieving.php
-<br>
-6.RECORDING Vd
+
